@@ -12,9 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^6.1.9"
+    "mongoose": "^5.13.14"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ldeguzman9/pizza-hunt.git"
